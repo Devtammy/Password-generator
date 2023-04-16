@@ -1,0 +1,130 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #060911;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+h1 {
+    color: white;
+}
+
+h1 span {
+    color: rgb(50, 156, 85);
+}
+h4 {
+    color: rgb(126, 125, 125);
+}
+button {
+    background-color: rgb(50, 156, 85);
+    color: white;
+    padding: 7px 10px 7px 10px;
+    border-radius: 8px;
+    display: flex;
+    margin: auto;
+}
+button a {
+    color: white;
+}
+img {
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+hr {
+    width: 90%;
+    justify-content: center;
+}
+.col1 {
+    float: left;
+    width: 120px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 30px;
+    margin-right: 0px;
+    background-color: #0f172e;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+.col2 {
+    float: right;
+    width: 120px;
+    padding: 10px 25px 10px 25px;
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-right: 0px;
+    background-color: #0f172e;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.col3 {
+    float: left;
+    width: 120px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 50px;
+    margin-right: 0px;
+    background-color: #0f172e;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.col4 {
+    float: right;
+    width: 120px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #0f172e;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+input {
+    justify-content: center;
+    margin: auto;
+}
+.btn1 {
+    margin-left: 1px;
+    margin-top: 28px;
+    display: inline;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.btn2 {
+    margin-left: 1px;
+    margin-top: 28px;
+    display: inline;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.btn3 {
+    margin-left: 1px;
+    margin-top: 48px;
+    display: inline;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.btn4 {
+    margin-left: 1px;
+    margin-top: 48px;
+    display: inline;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
